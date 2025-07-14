@@ -15,10 +15,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjamineg10&show_icons=true&theme=default&hide_title=true&hide_rank=false" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=benjamineg10&theme=default" width="49%"/>
-</p>
 
