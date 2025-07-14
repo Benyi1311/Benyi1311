@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hola 🫂, soy Benjamín</h1>
 
-<!--
-**Benyi1311/Benyi1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
 
-Here are some ideas to get you started:
+- 💻 Estudiante de Ingenieria de Sistemas.
+- 💡 Desarrollador Full Stack, no tengo un gusto definido por el Back-End o Front-End.
+- 🛠️ He desarrollado proyectos con Java, HTML, Css, y actualmente Python.
+- 🌱 Entusiasmado y comprometido con adquirir un conocimiento completo sobre programación.
+- 🌍 Soy de Perú | 20 años
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benjamineg10&show_icons=true&theme=default&hide_title=true&hide_rank=false" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=benjamineg10&theme=default" width="49%"/>
+</p>
+
