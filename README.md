@@ -6,7 +6,7 @@
 - 💡 Desarrollador Full Stack, no tengo un gusto definido por el Back-End o Front-End.
 - 🛠️ He desarrollado proyectos con Java, HTML, Css, y actualmente Python.
 - 🌱 Entusiasmado y comprometido con adquirir un conocimiento completo sobre programación.
-- 🌍 Soy de Perú | 20 años
+- 🌍 Soy de Perú | 21 años
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
